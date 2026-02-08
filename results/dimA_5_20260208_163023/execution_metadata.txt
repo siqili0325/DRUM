@@ -1,0 +1,8 @@
+============================================================
+EXECUTION METADATA
+============================================================
+Execution timestamp: 2026-02-08 16:30:23
+Script name: main.py
+Script path: /Users/siqili/Desktop/FlexDRO/main.py
+Python version: 3.10.16 (main, Dec 11 2024, 10:22:29) [Clang 14.0.6 ]
+Working directory: /Users/siqili/Desktop/FlexDRO
