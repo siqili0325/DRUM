@@ -2,6 +2,8 @@
 
 ### Distributionally Robust Unsupervised transfer learning with structurally Missing covariates
 
+[Preprint](https://arxiv.org/abs/2605.24212)
+
 ## Overview
 
 Prediction models are increasingly trained at high-resource centers and then deployed across systems whose data infrastructure is far leaner. This creates a recurring failure mode: some of the most predictive covariates recorded during training are **never collected** at the deployment site — not missing at random for a handful of subjects, but *absent for the entire target population*. Compounding the problem, outcome labels at the new site are frequently unavailable, so the model cannot simply be retrained or supervised into shape.
