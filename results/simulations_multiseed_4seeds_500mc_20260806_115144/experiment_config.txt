@@ -1,0 +1,35 @@
+============================================================
+DRUM Simulations — MULTI-SEED EXPERIMENT
+============================================================
+Timestamp: 2026-08-06 11:51:44
+Command: main.py
+
+BASE_DIR: results/simulations_multiseed_4seeds_500mc_20260806_115144
+BATCH_SIZE: 128
+DELTA: 0.3
+DIM_A: 5
+DIM_EPSILON: 4
+DIM_X: 15
+EPOCHS_F: 100
+EPOCHS_Fx: 200
+EPOCHS_G: 300
+EPOCHS_OMEGA: 200
+FINETUNE_STEPS: 80
+HIDDEN_DIM: 16
+LR_DUAL: 0.0001
+LR_F: 1e-05
+LR_Fx: 1e-05
+LR_G: 1e-05
+LR_GS: 0.0005
+LR_Omega: 1e-05
+LR_PRIMAL: 0.0002
+L_SAMPLES: 256
+MC_SEED: 9999
+NOISE_DIM: 32
+NUM_EPOCHS_ENG: 500
+N_MC: 500
+N_SOURCE: 5000
+N_TARGET: 1000
+N_WORKERS: 5
+PERTURBATION_SCALES: [0.5, 1.0, 1.5]
+TRAIN_SEEDS: [1, 2, 3, 4]
