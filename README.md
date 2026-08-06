@@ -19,7 +19,7 @@ The result is a single, label-free, deployable predictor that transfers safely t
 ### 🖼️ DRUM Workflow & Pipeline
 
 <p align="center">
-  <img src="figures/fig1.png" alt="DRUM Workflow Overview" width="85%">
+  <img src="figures/fig1.png" alt="DRUM Workflow Overview" width="90%">
   <br>
   <em>Figure 1: Overview of the DRUM transfer learning framework from source to unlabeled target sites.</em>
 </p>
@@ -34,7 +34,7 @@ The result is a single, label-free, deployable predictor that transfers safely t
 * **Bias-Correction for Finite Samples:** A Neyman-orthogonal pseudo-outcome with cross-fitting removes first-order sensitivity to nuisance estimation error.
 
 <p align="center">
-  <img src="figures/fig2.png" alt="DRUM Estimation Pipeline" width="85%">
+  <img src="figures/fig2.png" alt="DRUM Estimation Pipeline" width="90%">
   <br>
   <em>Figure 2: Three-stage estimation pipeline and bias correction mechanism.</em>
 </p>
